@@ -1,0 +1,11 @@
+{
+    "adrian": null,
+    "daniel": "victor",
+    "elena" : {
+        "andrea" : {
+            "thea"  : null,
+            "george" : "nicolas"
+        },
+        "alex" : "carlos"
+    }
+}
