@@ -1,6 +1,6 @@
 # flatteningJSON
 This project is created for flattening JSON files. The output JSON file is flattened on multiple levels. ex of key-value output pair: "a.b.c.d" : 10.
-For this solution I chose Node.js as a used technology, therefore you need node to run it.:
+For this solution I chose Node.js as a used technology, therefore you need node to run it:
 1)If you do not have it installed, please follow the instructions on this webpage to set this up: https://nodejs.org/en/download/ . 
 2)In order to flatten a JSON file you need to add it inside main directory of the project, alongside main.js file.
 3)Once you did that, please open your terminal, go to project folder and run this command: node main.js <your_json_file_name>. 
